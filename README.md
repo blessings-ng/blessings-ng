@@ -1,5 +1,5 @@
 ## Hi there, it's Blessings Igwe.
-Frontend Developer by day and night. I live and breathe animations(that's the life of the website basiclly). I hope you find my work intriguing enough to say Hi.
+Web/Frontend Developer by day and night. I live and breathe animations(that's the life of the website basiclly). I hope you find my work intriguing enough to say Hi.
 
 <!--
 **blessings-ng/blessings-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
